@@ -4,7 +4,7 @@ This is an Online examintion system with Video Surveillance.
 
 ## Project Essentials Links:
 
-- [Website link](https://oexamination.herokuapp.com/)
+- [Website link](https://oexamination.netlify.app/)
 - [Download Thunder Client Collection import files](https://drive.google.com/file/d/1-FCrBSEVCV9p1SL1IDzlPfsjFWoA50ln/view?usp=sharing)
 - [Frontend GitHub repo link](https://github.com/NaveenMohanty/oexamination-frontend)
 
